@@ -2,14 +2,14 @@
 
 ###Education###
 University of Pennsylvania 
-  PhD   Biochemistry / Biophysics
+  PhD   Biochemistry / Biophysics<br>
 Princeton University
-  MA   Molecular Biology
+  MA   Molecular Biology<br>
 MIT
   SB   Life Sciences 
-  minor:  music
+  minor:  music<br>
 MIT Professional Education
-  Applied Data Science
+  Applied Data Science<br>
 
 ###Projects###
 **DL models for determining blood cell malaria-infection**
