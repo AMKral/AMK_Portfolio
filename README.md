@@ -10,6 +10,7 @@ A library of 27000 images of stained single red blood cells that may be infected
 
 **SVHN deep learning models to identify images of numbers**<br>
 A simpler project than the malaria infection status project<br>
+This was an elective project for my Applied Data Science course. The first 4 models were dictated my the instructors. The remainder are mine.
 **
 
 
