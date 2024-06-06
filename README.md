@@ -6,12 +6,11 @@
 This was my capstone project for the Applied Data Science course.<br>
 A library of 27000 images of stained single red blood cells that may be infected with the malaria-causing Plasmodium falciparum parasite. The aim of the project was to develop a deep learning model that would accurately identify if a blood cell were infected or not. <br>
 
-**SOMETHING ELSE DEALING WITH ML**
-
 **SVHN deep learning models to identify images of numbers**<br>
 A simpler project than the malaria infection status project<br>
 This was an elective project for my Applied Data Science course. The first 4 models were dictated my the instructors. The remainder are mine.
-**
+
+**Under construction**
 
 
 ## About me:
